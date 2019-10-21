@@ -23,6 +23,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
+    "cross-env": "^5.2.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
   }
