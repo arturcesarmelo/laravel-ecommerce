@@ -1,6 +1,6 @@
 # Laravel E-commerce
 
-A didatic e-commerce
+A didatic e-commerce.
 
 # Server requirements
 - PHP 7.3
