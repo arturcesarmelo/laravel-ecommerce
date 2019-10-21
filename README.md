@@ -13,7 +13,7 @@ A didatic e-commerce
 - Node v8.10.0
 - NPM 3.5.2
 
-#License
+# License
 
 MIT
 
